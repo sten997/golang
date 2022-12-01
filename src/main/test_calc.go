@@ -126,7 +126,7 @@ func main() {
 	} else {
 		a3 = romenum(i3)
 		k = true
-	}
+	} // Hi
 
 	if k == true {
 		resultNum = operation(i1, a2, a3)
